@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "LZEz6w17l1xI+7dgDlFxMa+JHvUUK2hdhtHFI0fA5ULlo7uDuNFpu54FMK/6ykSKi3TA00Aqt8g33ddjilMqDg==",
+  "dgSpecHash": "bx2Sa4rLOHWmy24N0XD3gDe1RSjg2NRzVkyhis1p7Y9YunpXOnjQZBk7pV2Wpqf+h/zive3ctgJ1Kby8KMYH8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\saraf\\OneDrive\\Documents\\SmartCafe\\SmartCafe.Domain\\SmartCafe.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
