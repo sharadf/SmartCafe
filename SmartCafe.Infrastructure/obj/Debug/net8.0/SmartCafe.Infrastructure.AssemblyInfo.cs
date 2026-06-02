@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartCafe.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83b82ba399b47397635bcd0b028ec30de731d3b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f6b86df7049664c0ae96dd17ebc709c3e27b4b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartCafe.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartCafe.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -50,6 +50,16 @@ builder
 
 builder.Services.AddAuthorization();
 
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+builder.Services.AddScoped<IMenuRepository, MenuRepository>();
+
+builder.Services.AddScoped<ITableRepository, TableRepository>();
+
+builder.Services.AddScoped<IReservationRepository, ReservationRepository>();
+
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
