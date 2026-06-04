@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartCafe.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83b82ba399b47397635bcd0b028ec30de731d3b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08145a6c9b36d926a95e1773d8d97dbab8bbc82d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartCafe.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartCafe.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
