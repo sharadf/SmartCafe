@@ -1,6 +1,6 @@
 public interface IMenuService
 {
-    Task<List<MenuItemDto>> GetMenuItemsAsync();
+    Task<List<MenuItemDto>> GetAllAsync();
 
     Task<MenuItemDto?> GetByIdAsync(Guid id);
 
