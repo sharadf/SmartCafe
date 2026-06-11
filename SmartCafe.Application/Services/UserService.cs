@@ -1,4 +1,5 @@
 using System.Diagnostics.CodeAnalysis;
+using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,26 +9,22 @@ public class UserService : IUserService
 
     private readonly IJwtService _jwtService;
 
-    public UserService(UserManager<AppUser> userManager, IJwtService jwtService)
+    private readonly IMapper _mapper;
+
+    public UserService(UserManager<AppUser> userManager, IJwtService jwtService, IMapper mapper)
     {
         _userManager = userManager;
         _jwtService = jwtService;
+        _mapper = mapper;
     }
 
     public async Task RegisterAsync(RegisterDto dto)
     {
         var existingUser = await _userManager.FindByEmailAsync(dto.Email);
-
-        if (existingUser == null)
+        if (existingUser != null)
             throw new Exception("User already exists.");
 
-        var user = new AppUser
-        {
-            Id = Guid.NewGuid(),
-            FullName = dto.FullName,
-            Email = dto.Email,
-            UserName = dto.Email,
-        };
+        var user = _mapper.Map<AppUser>(dto);
 
         var result = await _userManager.CreateAsync(user, dto.Password);
 

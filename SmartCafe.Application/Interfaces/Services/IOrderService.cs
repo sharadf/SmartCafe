@@ -4,7 +4,7 @@ public interface IOrderService
 
     Task<OrderDto?> GetByIdAsync(Guid id);
 
-    Task<List<OrderDto>> GetByCustomerOrdersAsync(Guid customerId);
+    Task<List<OrderDto>> GetCustomerOrdersAsync(Guid customerId);
 
     Task CreateAsync(Guid customerId, CreateOrderDto dto);
 

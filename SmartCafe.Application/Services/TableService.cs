@@ -1,25 +1,22 @@
+using AutoMapper;
+
 public class TableService : ITableService
 {
     private readonly ITableRepository _tableRepository;
 
-    public TableService(ITableRepository tableRepository)
+    private readonly IMapper _mapper;
+
+    public TableService(ITableRepository tableRepository, IMapper mapper)
     {
         _tableRepository = tableRepository;
+        _mapper = mapper;
     }
 
     public async Task<List<TableDto>> GetAllAsync()
     {
         var tables = await _tableRepository.GetAllAsync();
 
-        return tables
-            .Select(x => new TableDto
-            {
-                Id = x.Id,
-                Number = x.Number,
-                Capacity = x.Capacity,
-                Status = x.Status,
-            })
-            .ToList();
+        return _mapper.Map<List<TableDto>>(tables);
     }
 
     public async Task<TableDto?> GetByIdAsync(Guid id)
@@ -29,24 +26,14 @@ public class TableService : ITableService
         if (table == null)
             return null;
 
-        return new TableDto
-        {
-            Id = table.Id,
-            Number = table.Number,
-            Capacity = table.Capacity,
-            Status = table.Status,
-        };
+        return _mapper.Map<TableDto>(table);
     }
 
     public async Task CreateAsync(CreateTableDto dto)
     {
-        var table = new CafeTable
-        {
-            Id = Guid.NewGuid(),
-            Number = dto.Number,
-            Capacity = dto.Capacity,
-            Status = TableStatus.Empty,
-        };
+        var table = _mapper.Map<CafeTable>(dto);
+
+        table.Id = Guid.NewGuid();
 
         await _tableRepository.AddAsync(table);
     }

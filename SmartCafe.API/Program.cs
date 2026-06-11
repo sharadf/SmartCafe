@@ -81,23 +81,24 @@ builder
     });
 
 builder.Services.AddAuthorization();
-
-builder.Services.AddScoped<IMenuService, MenuService>();
-builder.Services.AddScoped<ITableService, TableService>();
+builder.Services.AddAutoMapper(typeof(AppProfile));
 
 builder.Services.AddScoped<IJwtService, JwtService>();
 
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-
 builder.Services.AddScoped<IMenuRepository, MenuRepository>();
+builder.Services.AddScoped<IMenuService, MenuService>();
 
 builder.Services.AddScoped<ITableRepository, TableRepository>();
+builder.Services.AddScoped<ITableService, TableService>();
 
 builder.Services.AddScoped<IReservationRepository, ReservationRepository>();
+builder.Services.AddScoped<IReservationService, ReservationService>();
 
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 
 var app = builder.Build();
 app.UseStaticFiles();

@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "bx2Sa4rLOHWmy24N0XD3gDe1RSjg2NRzVkyhis1p7Y9YunpXOnjQZBk7pV2Wpqf+h/zive3ctgJ1Kby8KMYH8w==",
+  "dgSpecHash": "+OzRsEjHj5mrDvQgFEQoeHxtFZPNZVW0jn/Ve5tZO2bL3PJ3pnnzZaIGKeGgnvFIjOdlhJ02S5o+hui7GndOAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\saraf\\OneDrive\\Documents\\SmartCafe\\SmartCafe.Domain\\SmartCafe.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\saraf\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\saraf\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
     "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
     "C:\\Users\\saraf\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
