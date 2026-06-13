@@ -1,4 +1,4 @@
-using AutoMapper;
+    using AutoMapper;
 
 public class OrderService : IOrderService
 {
@@ -53,7 +53,7 @@ public class OrderService : IOrderService
         if (table == null)
             throw new Exception("Table not found");
 
-        var order = _mapper.Map<Order>(table);
+        var order = _mapper.Map<Order>(dto);
 
         order.Id = Guid.NewGuid();
         order.CustomerId = customerId;

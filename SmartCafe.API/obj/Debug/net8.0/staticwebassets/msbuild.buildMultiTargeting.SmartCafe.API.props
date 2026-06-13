@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\SmartCafe.API.props" />
-</Project>

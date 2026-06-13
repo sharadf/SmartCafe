@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Publish
+publish/
+
+# Test Results
+TestResults/
+
+# NuGet
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db

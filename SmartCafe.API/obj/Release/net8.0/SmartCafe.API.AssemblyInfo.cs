@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartCafe.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08145a6c9b36d926a95e1773d8d97dbab8bbc82d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fa89338d655686a97be3112e647878291234400")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartCafe.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartCafe.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
