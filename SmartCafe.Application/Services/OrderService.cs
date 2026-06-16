@@ -70,6 +70,8 @@ public class OrderService : IOrderService
             orderItem.Price = menuItem.Price;
         }
 
+        order.TotalPrice = order.OrderItems.Sum(oi => oi.Price * oi.Quantity);
+
         table.Status = TableStatus.Occupied;
         await _tableRepository.UpdateAsync(table);
 

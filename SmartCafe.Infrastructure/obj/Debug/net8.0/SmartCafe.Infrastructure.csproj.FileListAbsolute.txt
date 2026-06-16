@@ -12,9 +12,9 @@ C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\n
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCafe.Infrastructure.AssemblyInfo.cs
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCafe.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCafe.Infrastructure.sourcelink.json
+C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCaf.8ACFBEEE.Up2Date
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCafe.Infrastructure.dll
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\refint\SmartCafe.Infrastructure.dll
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCafe.Infrastructure.pdb
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCafe.Infrastructure.genruntimeconfig.cache
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\ref\SmartCafe.Infrastructure.dll
-C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Infrastructure\obj\Debug\net8.0\SmartCaf.8ACFBEEE.Up2Date

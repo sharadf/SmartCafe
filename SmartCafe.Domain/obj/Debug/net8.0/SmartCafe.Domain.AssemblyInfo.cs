@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartCafe.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fa89338d655686a97be3112e647878291234400")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57b7e27c353e36a9ceedd9dd59809cc5f04dac4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartCafe.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartCafe.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

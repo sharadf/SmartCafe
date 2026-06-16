@@ -9,8 +9,8 @@ C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\SmartCafe.Application.AssemblyInfo.cs
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\SmartCafe.Application.csproj.CoreCompileInputs.cache
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\SmartCafe.Application.sourcelink.json
+C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\SmartCaf.1423E7D0.Up2Date
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\SmartCafe.Application.dll
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\refint\SmartCafe.Application.dll
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\SmartCafe.Application.pdb
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\ref\SmartCafe.Application.dll
-C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Application\obj\Debug\net8.0\SmartCaf.1423E7D0.Up2Date

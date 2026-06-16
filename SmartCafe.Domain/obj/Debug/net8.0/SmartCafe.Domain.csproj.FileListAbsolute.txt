@@ -1,12 +1,12 @@
+C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\bin\Debug\net8.0\SmartCafe.Domain.deps.json
+C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\bin\Debug\net8.0\SmartCafe.Domain.dll
+C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\bin\Debug\net8.0\SmartCafe.Domain.pdb
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.csproj.AssemblyReference.cache
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.AssemblyInfoInputs.cache
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.AssemblyInfo.cs
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.csproj.CoreCompileInputs.cache
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.sourcelink.json
-C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\bin\Debug\net8.0\SmartCafe.Domain.deps.json
-C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\bin\Debug\net8.0\SmartCafe.Domain.dll
-C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\bin\Debug\net8.0\SmartCafe.Domain.pdb
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.dll
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\refint\SmartCafe.Domain.dll
 C:\Users\saraf\OneDrive\Documents\SmartCafe\SmartCafe.Domain\obj\Debug\net8.0\SmartCafe.Domain.pdb

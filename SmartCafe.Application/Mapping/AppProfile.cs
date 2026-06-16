@@ -21,6 +21,8 @@ public class AppProfile : Profile
             .ForMember(dest => dest.TableNumber, opt => opt.MapFrom(src => src.Table.Number))
             .ReverseMap();
 
+        CreateMap<ReservationDto, Reservation>().ReverseMap();
+
 
         // --- Order ---
         // Маппинг для элементов заказа, чтобы OrderDto мог корректно заполнить свой список Items

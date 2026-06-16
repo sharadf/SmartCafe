@@ -81,7 +81,9 @@ builder
     });
 
 builder.Services.AddAuthorization();
+
 builder.Services.AddAutoMapper(typeof(AppProfile));
+builder.Services.AddAutoMapper(typeof(ReservationService).Assembly);
 
 builder.Services.AddScoped<IJwtService, JwtService>();
 

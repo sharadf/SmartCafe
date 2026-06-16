@@ -14,5 +14,8 @@ public class Order
 
     public OrderStatus Status { get; set; }
 
+
+    public decimal TotalPrice { get; set; }
+
     public ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 }
